@@ -1,2 +1,2 @@
 # omu-tip-not
-Omu Tip Fakultesi ogrencileri icin geistirilmis not hesaplama masaustu uygulamasidir.
+Omu Tip Fakultesi ogrencileri icin gelistirilmis not hesaplama masaustu uygulamasidir.
